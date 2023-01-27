@@ -22,7 +22,7 @@ Puis vous allez avoir une page comme celle ci :&#x20;
 
 ![](../.gitbook/assets/image.png)
 
-Vous avez accès à de choix **Crack** ou **Microsoft**&#x20;
+Vous avez accès à deux choix **Crack** ou **Microsoft**&#x20;
 
 Si vous avez achetez **Minecraft** vous pouvez cliquer sur un des 2 cela ne change rien pour vous&#x20;
 
