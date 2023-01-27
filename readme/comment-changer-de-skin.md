@@ -4,7 +4,7 @@
 
 Pour changer rien de plus simple qu'un seule commande&#x20;
 
-/skin \<PseudoD'unJoueursMinecraft>
+/skin set \<PseudoD'unJoueursMinecraft>
 
 ou alors
 
