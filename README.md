@@ -1,6 +1,5 @@
 ---
 description: Le wiki de Radium est la pour vous aidez !
-layout: landing
 ---
 
 # 👋 Bienvenue sur le Wiki de Radium
