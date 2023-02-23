@@ -4,8 +4,6 @@ description: Cette page répond aux questions les plus poser sur notre discord.
 
 # ❓ Vos questions !
 
-:bangbang:Si vous été sur PC pour chercher plus fait CTRL+F :bangbang:
-
 ## Ouvert aux cracks ?&#x20;
 
 Nous avons pris la décision d'ouvrir le serveur au crack mais pas comme vous le penser. À la place de mettre un mot de passe avec un /login à l'entrée sur le serveur, nous avons préféré créer notre propre system de compte pour vous faciliter la vie en tant que crack ou Premium.
