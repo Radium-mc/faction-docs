@@ -3,6 +3,7 @@
 * [👋 Bienvenue sur le Wiki de Radium](README.md)
 * [❓ Vos questions !](vos-questions.md)
 
-## 🖥 Connexion&#x20;
+## 🖥 launcher
 
-* [1⃣ Premier connexion](connexion/premier-connexion.md)
+* [1⃣ Premier connexion](launcher/premier-connexion.md)
+* [🗃 RAM](launcher/ram.md)
