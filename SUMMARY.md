@@ -10,4 +10,4 @@
 
 ## ⚔ Radium Client
 
-* [1⃣ Le Radium Client](radium-client/le-radium-client.md)
+* [⚔ Le Radium Client](radium-client/le-radium-client.md)

@@ -13,3 +13,7 @@ Si vous avez des questions vous allez sur cette page :&#x20;
 {% content-ref url="vos-questions.md" %}
 [vos-questions.md](vos-questions.md)
 {% endcontent-ref %}
+
+{% content-ref url="radium-client/le-radium-client.md" %}
+[le-radium-client.md](radium-client/le-radium-client.md)
+{% endcontent-ref %}
