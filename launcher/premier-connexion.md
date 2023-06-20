@@ -13,7 +13,7 @@ description: Voici comment t'aider à te connecter pour la première fois
 
 ## Comment créer un compte ?
 
-Pour te créer un compte rends-toi à cette adresse : [https://app.radium-mc.fr/user/register](https://faction.radium-mc.fr/user/register)&#x20;
+Pour te créer un compte rends-toi à cette adresse : [https://app.radium-mc.fr/user/register](https://app.radium-mc.fr/user/register)&#x20;
 
 Puis entre tes informations
 
@@ -21,7 +21,7 @@ Puis entre tes informations
 
 ## Comment télécharger le launcher ?
 
-Pour télécharger le lancer rends-toi à cette adresse: [https://app.radium-mc.fr/launcher](https://faction.radium-mc.fr/launcher)
+Pour télécharger le lancer rends-toi à cette adresse: [https://app.radium-mc.fr/launcher](https://dl.radium-mc.fr/launcher/)
 
 Dès que tu as installé le launcher tu dois te connecter à [ton compte ](premier-connexion.md#comment-creer-un-compte)
 
